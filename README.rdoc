@@ -1,0 +1,1 @@
+# Ruby on Rails Application for Blockbuster movies reviews : Flix application.
